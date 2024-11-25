@@ -21,6 +21,7 @@ public class Vectorguistro {
        obcarros [0] = nuevocarro;
         for (Productos ncar : obcarros) {
             System.out.println(" nuevo: "+ncar);
+            System.out.println(" hola ");
         }
     }
 }
